@@ -8,7 +8,6 @@
 	</parent>
 	<groupId>cn.nova</groupId>
 	<artifactId>crm-common</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
 		<!-- 时间操作组件 -->
 		<dependency>
